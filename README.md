@@ -1,2 +1,2 @@
 # SAPUI5
-SAPUI5 Developments.
+SAPUI5 Developments
